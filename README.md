@@ -3,4 +3,4 @@ This code will automate login to stackoverflow using selenium web automation pac
 
 In line 5 of code change the path to the downloaded webdriver in your system.
 
-download the chrome webdriver from https://sites.google.com/a/chromium.org/chromedriver/downloads
+download the chrome webdriver from https://sites.google.com/chromium.org/driver/
